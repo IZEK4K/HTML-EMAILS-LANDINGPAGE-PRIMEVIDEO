@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="color-scheme" content="light dark">
+   <meta name="supported-color-schemes" content="light dark">
+	<title></title>
+   <style type="text/css">
+   	@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+      table {
+			border-spacing: 0;
+		}
+      td {
+         padding: 0;
+      }
+      
+      img {
+         border: 0;
+      }
+     
+
+      @media screen and (max-width: 599.98px) {
+        
+      }
+      @media screen and (max-width: 399.98px) {
+        
+      }
+
+      /* Custom Dark Mode Colors */
+      :root {
+         color-scheme: light dark;
+         supported-color-schemes: light dark;
+      }
+      @media (prefers-color-scheme: dark) {
+         
+        
+      }
+   </style>
+   
+	
+	
+</head>
+<body style="Margin:0;padding:0;min-width:100%;background-color: white;">
+
+   
+
+   <center style="width: 100%;table-layout:fixed;padding-bottom: 40px;">
+      <div style="max-width: 600px;background-color: #ffffff;box-shadow: 0 0 10px rgba(0, 0, 0, .2);">
+
+         <!-- Preheader (remove comment) -->
+         <div style="font-size: 0px;color: #ffffff;line-height: 1px;mso-line-height-rule:exactly;display: none;max-width: 0px;max-height: 0px;opacity: 0;overflow: hidden;mso-hide:all;">
+            <!-- Add Preheader Text Here (85-100 characters in length) -->
+         </div>
+         <!-- End Preheader (remove comment) -->
+      
+        
+
+         <table align="center" style="border-spacing:0;color:#565656;font-family: 'Lato',sans-serif, Arial, Helvetica;background-color: #ffffff;Margin:0;padding:0;width: 100%;max-width: 600px;" role="presentation">
+
+
+<!-- START FIRST TABLE ROW -->
+            <tr>
+               <td style="padding:0;">
+                  <table width="100%" style="border-spacing:0;background-color:none;" role="presentation">
+                  
+                   <tr>
+                        <td>
+                            <img  width="600px" src="https://i.ibb.co/jGyGRvB/HEADER.png";>
+                        </td>
+                   </tr>
+
+                  </table>
+               </td>
+            </tr>
+<!-- END FIRST TABLE ROW -->
+
+<!--START OF EMAIL HOOK-->
+<tr>
+    <td style="padding:0;">
+       <table width="100%" style="border-spacing:0;" role="presentation">
+       
+        <tr>
+             <td>
+                 <img width="600px" src="https://i.ibb.co/mRhJxbG/GRAPHIC.png">
+
+             </td>
+        </tr>
+
+       </table>
+    </td>
+ </tr>
+
+ <tr style="background-color: black;">
+    <td style="padding: 20px;">
+        <table align="center">
+            <tr>
+                <td >
+                    <p align="center" style="color: #fafdfe;">Matt Ryan and the colts take on russell wilson and the Broncos in an AFC matchup on Thursday Night Football. Pregame Coverage starts at 7PM ET with TNF Tonight delivered by XP FUEL followed by kickoff at 8:15PM ET</p>
+                    <p align="center" style="color: #fafdfe;">Its a matchup you wont want to miss - and its included with your Prime Membership </p>
+                </td>
+            </tr>
+        </table>
+    </td>
+ </tr>
+
+
+
+ <tr style="background-color:red;padding:40px;">
+   <td  align="center" style="padding:10px;background-color: black;">
+
+      <table>
+         <tr>
+            <td style="padding: 0px 20px 40px 20px;">
+               <button style="padding: 10px 30px 10px 30px;background-color: aqua;border: 0;border-radius: 3px;color: black;">Add to your watchlist</button>
+            </td>
+         </tr>
+      </table>
+      
+   </td>
+ </tr>
+
+ <tr style="background-color: black;">
+    <td>
+        
+            <tr>
+                <td>
+                    <img src="https://i.ibb.co/G9gTLgH/GRAPHIC-2.png" width="600px">
+                </td>
+            </tr>
+
+        
+    </td>
+ </tr>
+
+ <tr>
+   <td style="padding-top: 30px;background-color: black;">
+      <img src="https://i.ibb.co/yf1Pz1c/GRAPHIC-3.png" width="600px">
+   </td>
+ </tr>
+
+ <tr style="background-color: black;">
+   <td style="padding: 20px;">
+       <table align="center">
+           <tr>
+               <td >
+                   <p align="center" style="color: #fafdfe;">Join Charissa  Thompson, Tony Gonzalez, Richard sherman, Ryan Fitzpatrick, and Andrew Whitworth before and after the game as they break down the action from the game and discuss the biggest stories around the league. Watch <span style="font-style:italic;">TNF Tonight</span> delivered by Little Ceasars at 7 PM ET and Tune in to TNF Nightcap after the game ends.</p>
+               </td>
+           </tr>
+       </table>
+   </td>
+</tr>
+
+ <!--END OF EMAIL HOOK-->
+
+ <!--START OF SOCIAL ICONS-->
+
+ <tr style="background-color: black;">
+   <td style="padding: 5px;">
+       <table align="center">
+           <tr>
+               <td style="padding: 10px;opacity: .4;cursor: pointer;">
+                   <img width="20px" src="https://i.ibb.co/HPzBf10/square-facebook-1.png">
+               </td>
+               <td style="padding: 10px;opacity: .4;cursor: pointer;">
+                  <img width="20px" src="https://i.ibb.co/4dJQBrV/square-instagram.png">
+              </td>
+              <td style="padding: 10px;opacity: .4;cursor: pointer;">
+               <img width="20px" src="https://i.ibb.co/ync4gct/square-twitter.png">
+              </td>
+              <td style="padding: 10px;opacity: .4;cursor: pointer;">
+               <img width="20px" src="https://i.ibb.co/pRFxKDL/square-youtube.png">
+              </td>
+            <tr> 
+       </table>
+   </td>
+</tr>
+
+<tr style="background-color: black;">
+   <td style="padding: 5px;">
+       <table align="center">
+           <tr>
+               <td style="padding: 10px;opacity: .4;cursor: pointer;">
+                   <img width="138px"  src="https://i.ibb.co/JFcMHP7/Amazon-Prime-Video-logo-svg.png">
+               </td>
+           <tr>
+
+       </table>
+   </td>
+</tr>
+
+<tr style="background-color: black;">
+   <td style="padding: 20px;">
+       <table align="center">
+           <tr>
+               <td >
+                   <p align="center" style="color: #fafdfe;font-weight: 100;font-size:10px;text-decoration: underline;cursor: pointer;">UNSUBSCRIBE</p>
+               </td>
+           </tr>
+       </table>
+   </td>
+</tr>
+
+
+ <!--END OF SOCIAL ICONS-->
+
+      </div>
+   </center>
+
+</body>
+</html>
