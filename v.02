@@ -1,0 +1,220 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="color-scheme" content="light dark">
+   <meta name="supported-color-schemes" content="light dark">
+	<title></title>
+   <style type="text/css">
+   	@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+      table {
+			border-spacing: 0;
+		}
+      td {
+         padding: 0;
+      }
+      
+      img {
+         border: 0;
+      }
+     
+
+      @media screen and (max-width: 599.98px) {
+        
+      }
+      @media screen and (max-width: 399.98px) {
+        
+      }
+
+      /* Custom Dark Mode Colors */
+      :root {
+         color-scheme: light dark;
+         supported-color-schemes: light dark;
+      }
+      @media (prefers-color-scheme: dark) {
+        body, center, table, tr, td, p {
+          background-color:rgb(0, 0, 0);
+          color: #fafdfe;
+        } 
+      }
+   </style>
+   
+	
+	
+</head>
+<body style="Margin:0;padding:0;min-width:100%;background-color: white;">
+   <center style="width: 100%;table-layout:fixed;padding-bottom: 40px;">
+      <div style="max-width: 600px;background-color: #ffffff;box-shadow: 0 0 10px rgba(0, 0, 0, .2);">
+
+         <!-- Preheader (remove comment) -->
+         <div style="font-size: 0px;color: #ffffff;line-height: 1px;mso-line-height-rule:exactly;display: none;max-width: 0px;max-height: 0px;opacity: 0;overflow: hidden;mso-hide:all;">
+            <!-- Add Preheader Text Here (85-100 characters in length) -->
+         </div>
+         <!-- End Preheader (remove comment) -->
+         <table width="600px" align="center" cellpadding="0" cellspacing="0" style="border-spacing:0;padding: 0;Margin-right: 0;color:#565656;font-family: 'Lato',sans-serif, Arial, Helvetica;background-color: #ffffff;max-width: 600px;" role="presentation">
+               <table width="600px" cellpadding="0" cellspacing="0" style="border-spacing:0;padding: 0;Margin: 0;background-color: black;">
+                  <tr width="600px" cellpadding="0" cellspacing="0" style="border-spacing:0;padding: 0;Margin: 0;">
+                     <td style="padding:0;Margin:0;">
+                       <!--[if (gte mso 9)|(IE)]>
+                        <table width="600" align="center">
+                        <tr width="600" style="padding:0px;Margin:0 6.5 0 6.5px;">
+                        <td width="600">
+                        <![endif]-->
+                        <table width="100%" cellpadding="0" cellspacing="0" style="border-spacing:0;" role="presentation">
+                           <tr style="padding:0;Margin:0;">
+                              <td style="padding:0 5px 0 5px;Margin:0;">
+                                 <img  width="600px" src="https://i.ibb.co/syGhbyc/HEADER-600px.png";>
+                              </td>
+                           </tr>
+                        </table>
+                       <!--[if (gte mso 9)|(IE)]>
+                        </td>
+                        </tr>
+                        <![endif]-->
+                     </td>
+                  </tr>
+                  <tr width="600px" cellpadding="0" cellspacing="0" style="border-spacing:0;padding: 0;Margin: 0;">
+                     <td style="padding:0;Margin: 0;">
+                        <!--[if (gte mso 9)|(IE)]>
+                        <table width="600" align="center">
+                        <tr width="600">
+                        <td width="600"  style="padding:0 5px 0 5px;Margin:0;">
+                        <![endif]-->
+                        <table width="100%" cellpadding="0" cellspacing="0" style="border-spacing:0;padding: 0;Margin: 0;" role="presentation">
+                        <tr style="padding:0;Margin: 0;">
+                           <td style="padding:0 5px 0 5px;Margin:0;">
+                              <img width="600px" src="https://i.ibb.co/mRhJxbG/GRAPHIC.png">
+                           </td>
+                        </tr>
+                        </table>
+                       <!--[if (gte mso 9)|(IE)]>
+                        </td>
+                        </tr>
+                        <![endif]-->
+                     </td>
+                  </tr>
+                  <tr width="600px" cellpadding="0" cellspacing="0" style="border-spacing:0;padding: 0;Margin: 0;background-color: black;">
+                     <td width="600px" cellpadding="0" cellspacing="0" style="border-spacing:0;padding: 0;Margin: 0;background-color: black;">
+                        <!--[if (gte mso 9)|(IE)]>
+                        <table width="600" align="center">
+                        <tr width="600">
+                        <td width="600">
+                        <![endif]-->
+                        <table align="center" width="600px" cellpadding="0" cellspacing="0" style="border-spacing:0;padding: 0;Margin: 0;background-color: black;">
+                              <tr>
+                                 <td style="padding:0 10px 0 10px;">
+                                    <p align="center" style="color: #fafdfe;">Matt Ryan and the colts take on russell wilson and the Broncos in an AFC matchup on Thursday Night Football. Pregame Coverage starts at 7PM ET with TNF Tonight delivered by XP FUEL followed by kickoff at 8:15PM ET</p>
+                                    <p align="center" style="color: #fafdfe;">Its a matchup you wont want to miss - and its included with your Prime Membership </p>
+                                 </td>
+                              </tr>
+                        </table>
+                        <!--[if (gte mso 9)|(IE)]>
+                        </td>
+                        </tr>
+                        <![endif]-->
+                     </td>
+                  </tr>
+                  <tr style="background-color:black;padding:40px;">
+                     <td  align="center" style="padding:10px;Margin: 0;background-color: black;">
+                        <table border="0" cellpadding="0" cellspacing="0" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto;Margin: 0;">
+                           <tr>
+                                 <td>
+                                    <!--[if mso]>
+                                    <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://" style="height:40px;v-text-anchor:middle;width:150px;" arcsize="10%" stroke="f" fillcolor="#0affef">
+                                    <w:anchorlock/>
+                                    <center>
+                                    <![endif]-->
+                                       <a href="http://" style="background-color:#0affef;border-radius:4px;color:#000000;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:150px;-webkit-text-size-adjust:none;">Add to wishlist</a>
+                                    <!--[if mso]>
+                                    </center>
+                                    </v:roundrect>
+                                    <![endif]-->
+                                 </td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr style="background-color: black;">
+                     <td style="padding-left:5px;">
+                        <table cellpadding="0" cellspacing="0">
+                              <tr>
+                                 <td style="margin:0">
+                                    <img src="https://i.ibb.co/RhttkWd/GRAPHIC-2-600-PX.png">
+                                 </td>
+                              </tr>
+                        </table>
+                     </td>
+                  </tr>
+
+                  <tr style="background-color: black;">
+                     <td style="padding-left:5px;">
+                        <table cellpadding="0" cellspacing="0">
+                              <tr>
+                                 <td style="padding: 20px 0 10px 0;">
+                                    <img src="https://i.ibb.co/JB9QvcJ/GRAPHIC-3-600-PX.png">
+                                 </td>
+                              </tr>
+                        </table>
+                     </td>
+                  </tr>
+                 
+                  <tr style="background-color: black;">
+                     <td>
+                        <table align="center" cellpadding="0" cellspacing="0" style="border-spacing: 0;">
+                           <tr>
+                                 <td style="padding:0 10px 0 10px;">
+                                    <p align="center" style="color: #fafdfe;">Join Charissa  Thompson, Tony Gonzalez, Richard sherman, Ryan Fitzpatrick, and Andrew Whitworth before and after the game as they break down the action from the game and discuss the biggest stories around the league. Watch <span style="font-style:italic;">TNF Tonight</span> delivered by Little Ceasars at 7 PM ET and Tune in to TNF Nightcap after the game ends.</p>
+                                 </td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr style="background-color: black;">
+                     <td style="padding: 5px;">
+                        <table align="center">
+                           <tr>
+                                 <td class="tiktok-logo" style="padding: 20px;cursor: pointer;">
+                                    <img width="20px" src="https://i.ibb.co/xFJf1Jy/tiktok.png">
+                                 </td>
+                                 <td class="instagram-logo" style="padding: 20px;cursor: pointer;">
+                                    <img width="20px" src="https://i.ibb.co/gvNt36s/instagram.png">
+                                 </td>
+                                 <td class="twitter-logo" style="padding: 20px;cursor: pointer;">
+                                    <img width="20px" src="https://i.ibb.co/6mBKpTZ/twitter-1.png">
+                                 </td>
+                              <tr> 
+                        </table>
+                     </td>
+                  </tr>
+                  <tr style="background-color: black;">
+                     <td style="padding: 5px;">
+                        <table align="center">
+                           <tr>
+                              <td style="padding: 10px;opacity: .4;cursor: pointer;">
+                                 <img width="138px"  src="https://i.ibb.co/bsGWMgT/PRIME-VIDEO-300-PX.png">
+                              </td>
+                           <tr>
+
+                        </table>
+                     </td>
+                  </tr>
+                  <tr style="background-color: black;">
+                     <td style="padding: 20px;">
+                        <table align="center">
+                           <tr>
+                              <td>
+                                 <p align="center" style="color: #fafdfe;font-weight: 100;font-size:10px;text-decoration: underline;cursor: pointer;">UNSUBSCRIBE</p>
+                              </td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+               </table>
+         </table>
+      </div>
+   </center>
+
+</body>
+</html>
